@@ -28,10 +28,12 @@ $ cat interests.txt
 
 ## Tech Stack
 
-**Languages**
+<p><strong>Languages</strong></p>
+
 ![languages](https://skillicons.dev/icons?i=python,c,cpp,sql)
 
-**Tools & Environments**
+<p><strong>Tools & Environments</strong></p>
+
 ![tools](https://skillicons.dev/icons?i=ubuntu,git,fastapi,postgres,redis,docker,hadoop)
 ---
 
