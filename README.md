@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="assets/rotating-star.gif" alt="Rotating Star" width="250">
+  <img src="assets/rotating-star.gif" alt="Rotating Star" width="720">
 </p>
 
 ---
