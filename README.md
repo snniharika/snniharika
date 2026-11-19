@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Niharika
+# Hi, I'm Niharika ^^
 
 **B.Tech CSE '28 - ML enthusiast - Contrarian**
 
