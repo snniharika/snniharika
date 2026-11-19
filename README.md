@@ -4,13 +4,8 @@
 
 **B.Tech CSE '28 - ML enthusiast - Contrarian**
 
+*"Brevity is the soul of wit."* — WS
 </div>
-
-<p align="center">
-  <img src="assets/mobius-strip.svg"
-       alt="Animated Mobius Strip"
-       width="100%">
-</p>
 
 ---
 
