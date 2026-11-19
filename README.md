@@ -6,12 +6,6 @@
 
 </div>
 
-<p align="center">
-  <img src="assets/mobius-strip.svg"
-       alt="Animated Mobius Strip"
-       width="100%">
-</p>
-
 ---
 
 ## About Me
