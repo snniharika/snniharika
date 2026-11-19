@@ -17,8 +17,8 @@ third-year Computer Science and Engineering undergrad
 
 $ cat interests.txt
 → machine learning & deep learning
-→ NLP and data analytics
-→ distributed & scalable systems
+→ NLP & data analytics
+→ distributed systems
 ```
 
 ---
