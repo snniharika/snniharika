@@ -2,7 +2,7 @@
 
 # Hi, I'm Niharika :)
 
-**B.Tech CSE '28 - ML enthusiast - Backend & AI**
+**B.Tech CSE '28 - ML enthusiast - Contrarian**
 
 </div>
 
@@ -12,13 +12,12 @@
 
 ```bash
 $ whoami
-Computer Science and Engineering undergrad
+third year Computer Science and Engineering undergrad
 
 $ cat interests.txt
 → machine learning & deep learning
 → NLP and data analytics
-→ backend engineering & scalable systems
-→ computer networks and cloud technologies
+→ distributed & scalable systems
 ```
 
 ---
@@ -29,8 +28,7 @@ $ cat interests.txt
 ![languages](https://skillicons.dev/icons?i=python,c,cpp,sql)
 
 **Tools & Environments**
-![tools](https://skillicons.dev/icons?i=fastapi,postgres,redis,docker,elasticsearch,linux,git,github)
-
+![tools](https://skillicons.dev/icons?i=ubuntu,git,fastapi,postgres,redis,docker,hadoop)
 ---
 
 ## Reach Me
