@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="assets/rotating-star.gif" alt="Rotating Star" width="720">
+  <img src="assets/mobius-strip.gif" alt="Mobius Strip, animated ASCII art" width="720">
 </p>
 
 ---
