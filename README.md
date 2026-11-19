@@ -7,7 +7,9 @@
 </div>
 
 <p align="center">
-  <img src="assets/mobius-strip.gif" alt="Mobius Strip, animated ASCII art" width="720">
+  <img src="assets/mobius-strip.gif"
+       alt="Mobius Strip, animated ASCII art"
+       width="100%">
 </p>
 
 ---
