@@ -1,10 +1,14 @@
 <div align="center">
 
-# Hi, I'm Niharika :)
+# Hi, I'm Niharika
 
 **B.Tech CSE '28 - ML enthusiast - Contrarian**
 
 </div>
+
+<p align="center">
+  <img src="assets/rotating-star.gif" alt="Rotating Star" width="250">
+</p>
 
 ---
 
@@ -12,7 +16,7 @@
 
 ```bash
 $ whoami
-third year Computer Science and Engineering undergrad
+third-year Computer Science and Engineering undergrad
 
 $ cat interests.txt
 → machine learning & deep learning
